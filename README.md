@@ -1,5 +1,4 @@
 # MuniApp1.0
-firebase
-https://stackoverflow.com/questions/15043962/google-maps-hashmap-with-latlng
-https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderClient
-https://developers.google.com/maps/documentation/android-sdk/start
+- https://stackoverflow.com/questions/15043962/google-maps-hashmap-with-latlng  
+- https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderClient
+- https://developers.google.com/maps/documentation/android-sdk/start
